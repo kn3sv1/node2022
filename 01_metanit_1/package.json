@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node": "^18.5.0"
+  }
+}
