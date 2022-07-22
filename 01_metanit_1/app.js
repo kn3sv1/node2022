@@ -21,5 +21,8 @@ let userName = os.userInfo().username;
 console.log(`Дата запроса: ${greeting.date}`);
 console.log(greeting.getMessage(userName));
 
-console.log(greeting);
-console.log(greeting);
+
+// https://metanit.com/web/nodejs/2.1.php
+const User = require("./user.js"); 
+let eugene = new User("Eugene", 32);
+eugene.sayHi();
