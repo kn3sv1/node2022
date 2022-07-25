@@ -26,3 +26,9 @@ console.log(greeting.getMessage(userName));
 const User = require("./user.js"); 
 let eugene = new User("Eugene", 32);
 eugene.sayHi();
+
+
+
+const welcome = require("./welcome");
+welcome.getMorningMessage();
+welcome.getEveningMessage();
