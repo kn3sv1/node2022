@@ -1,0 +1,5 @@
+https://levelup.gitconnected.com/next-level-your-typescript-runtime-type-validation-using-class-and-decorators-ddd2ce3c86f3
+
+
+https://dev.to/codeprototype/safely-parsing-json-to-a-typescript-interface-3lkj
+

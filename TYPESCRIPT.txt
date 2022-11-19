@@ -1,2 +1,32 @@
 https://zetcode.com/javascript/axios/
 
+https://www.section.io/engineering-education/how-to-use-typescript-with-nodejs/
+
+
+
+JSON validation:
+
+SUPER- write GUARD validator:
+https://dev.to/syeo66/typescript-its-not-actually-validating-your-types-1mn3
+
+It is possible to use io-ts to provide runtime type
+https://dev.to/busypeoples/notes-on-advanced-typescript-runtime-validations-5b
+
+https://blog.logrocket.com/methods-for-typescript-runtime-type-checking/
+
+
+https://www.lukeautry.com/blog/tserial/
+
+
+
+https://stackoverflow.com/questions/44297397/how-to-implement-object-validation-using-typescript
+https://www.npmjs.com/package/smoke-screen
+
+
+
+Promise - супер:
+https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308
+
+https://bobbyhadz.com/blog/typescript-http-request-axios
+https://www.delftstack.com/howto/typescript/axios-typescript/
+
